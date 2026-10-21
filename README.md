@@ -13,21 +13,13 @@
 </div>
 
 <p align="center">
-  👩‍💻 Estudiante de DAW · 📍 Madrid · 🎶 Música y organización
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/DAW-Madrid-FFB3C6?style=for-the-badge&logoColor=333333" alt="DAW Madrid">
-  <img src="https://komarev.com/ghpvc/?username=BiancaAMD&label=Visitas&color=ff8fab&style=for-the-badge" alt="Contador de visitas">
 </p>
-
-<p align="center"><i>"Código limpio, mente ordenada 🎶"</i></p>
 
 ## 💮 | Sobre mí
 
-- 🎶 Programo mejor con música de fondo
-- 🗂️ Me encanta tenerlo todo organizado
-- 🌱 Ahora mismo aprendiendo bases de datos y HTML
+-  Me encanta la música
+-  Adoro la organización
 
 ## 💮 | Tecnologías
 
