@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Bianca 👋</h1>
 
-<!--
-**BiancaAMD/BiancaAMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXp5cW04YTUxYXk5eGw5dzh2ZzA4bG9nN3E2MzVybW0wb2lwNzczMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="300" alt="GIF de bienvenida">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  👩‍💻 Estudiante de DAW · 📍 Madrid · 🎵 Música y organización
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+![Java](https://img.shields.io/badge/Java-FFD6A5?style=for-the-badge&logo=openjdk&logoColor=333333)
+![Python](https://img.shields.io/badge/Python-A0C4FF?style=for-the-badge&logo=python&logoColor=333333)
+
+## 📚 Aprendiendo
+
+![Bases de datos](https://img.shields.io/badge/Bases_de_datos-CAFFBF?style=for-the-badge&logo=sqlite&logoColor=333333)
+![HTML](https://img.shields.io/badge/HTML-FFC6FF?style=for-the-badge&logo=html5&logoColor=333333)
+![Git](https://img.shields.io/badge/Git-BDB2FF?style=for-the-badge&logo=git&logoColor=333333)
+![GitHub](https://img.shields.io/badge/GitHub-FFADAD?style=for-the-badge&logo=github&logoColor=333333)
