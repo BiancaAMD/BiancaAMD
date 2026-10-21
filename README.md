@@ -1,6 +1,8 @@
 <h1 align="center">Bianca</h1>
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
 
 ```
   .   .     . .      .  .   .  .      .    . .
@@ -10,7 +12,9 @@
   '   ' `--'`-`-`-'      ' '  `-' '   `-`-'`-o
 ```
 
-</div>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DAW-Madrid-FFB3C6?style=for-the-badge&logoColor=333333" alt="DAW Madrid">
